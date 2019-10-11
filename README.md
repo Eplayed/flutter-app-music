@@ -4,7 +4,8 @@ A new Flutter project.
 
 
 
-widgets 目录功能如下：
+widgets 目录功能如下
+
 | 插件 | 作用 |
 | ------ | ------ |
 | routes.dart | fluro 的路由管理 |
